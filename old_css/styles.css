@@ -766,7 +766,7 @@ img {
 }
 /* --------SERVISE-CLASS-------------------- */
 
-.accent-color {
+/* .accent-color {
   color: var(--accent-color);
 }
 
@@ -785,7 +785,7 @@ img {
 
 .third-text-color-transparence {
   color: rgba(255, 255, 255, 0.6);
-  font-style: normal;
+  font-style: normal; */
 }
 
 /* ----------MODAL Window--------- */
